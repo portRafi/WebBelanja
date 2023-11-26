@@ -1,0 +1,16 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+.card{
+    border: none;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.039), 0 0 6px rgba(0,0,0,.05);
+}
+
+.card :hover image {
+    z-index: 5;
+}
